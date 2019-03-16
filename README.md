@@ -2,7 +2,7 @@
 Pet adoption website. 
 
 ## Screenshot
-![Pet adoption page]()
+![Pet adoption page](https://raw.githubusercontent.com/silvestreluna/pet-adoption/master/img/Pet-adoption-page.png)
 
 ## Getting Started
 
